@@ -1,0 +1,27 @@
+body{
+      background-color: black;
+      color: white;
+
+}
+#conte{
+            position: relative;
+            display: grid;
+            grid-template-columns: 30vh 30vh 30vh 30vh 30vh ; /* Three columns, each 100px wide */
+            width: fit-content;
+            height: fit-content;
+            left: 26vh;
+
+}
+#cont{
+      text-align: center;
+      align-content: center;
+      position: relative;
+      border: solid 2px yellow;
+      width: 25vh;
+      height: 30vh;
+      top: 2vh;
+      left: 2vh;
+      bottom: 2vh;
+      right: 2vh;
+      
+}

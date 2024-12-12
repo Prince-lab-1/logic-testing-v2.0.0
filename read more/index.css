@@ -1,0 +1,26 @@
+*{
+      background-color: black;
+      transition: 1.5s ease;
+}
+.cont{
+      align-items: center;
+      align-content: center;
+      text-align: center;
+      color: white;
+      margin: auto;
+      border: solid 2px yellow;
+      width: 40vh;
+      height: 80vh;
+      transition: 1.5s ease;
+      
+}
+
+#btn{
+ color: white;
+ background: transparent;
+ border: solid 2px green;
+ text-transform: capitalize;
+ padding: 2vh;
+ transition: 1.5s ease;
+
+}
